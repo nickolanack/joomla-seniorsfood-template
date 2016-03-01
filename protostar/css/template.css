@@ -7491,3 +7491,22 @@ body.modal-open {
 #users-profile-custom label {
 	display: inline;
 }
+.nav > li > a {
+    display: block;
+    background-color: #f0f0f0;
+    border-radius: 0;
+    border: none;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+    padding: 10px 25px;
+       margin-left: 5px;
+    color: teal;
+    border: 1px solid #dddddd;
+}
+.nav > li {
+    display: inline-block;
+}
+
+ul.nav.menu {
+    text-align: right;
+}
+
